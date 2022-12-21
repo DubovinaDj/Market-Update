@@ -1,7 +1,6 @@
 # Market-Update
 Financial Market Update Report
 
-Use this code and get live financial market information in an HTML file with interactive charts!
-In the report, find a price overview for the FX market, indices market, sectors market, and commodities market.
+With this code, you can get live financial market data in an HTML file with interactive charts! Find a price overview for the FX market, indices market, sectors market, and commodities market in the report.
 
 Data source: Yahoo Finance
